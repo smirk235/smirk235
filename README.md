@@ -1,3 +1,5 @@
+<img align="right" src="https://i.imgflip.com/65efzo.gif" height="200">
+
 - 👋 Hi, I’m @smirk235
 - 👀 I’m interested in **Data Science & Machine Learning.**
 - 🌱 I’m currently learning **JavaScript.**
